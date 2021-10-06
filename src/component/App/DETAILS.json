@@ -1,0 +1,24 @@
+[
+    {
+    "About":{
+        "name":"مهدی",
+        "family":"واحدی",
+        "email":"mahdivahediii@gmail.com",
+        "phone":"09146350991",
+        "description":"سلام ! من علاقه زیادی به برنامه نویسی دارم",
+        "image":"https://avatars.githubusercontent.com/u/89812007?s=400&u=2858db3e9361da2bdf613c652e7ef45e139b8cd1&v=4"
+    },
+    "Resume":{
+        "Resume1":{
+            "title":"آراز مارکت",
+            "etc":["1395","فروشگاه آنلاین محصولات غذایی"]
+        },
+        "Resume2":{
+            "title":"کارگر",
+            "etc":["1398","شبکه کاریابی در سطح کشوری"]
+        }
+        
+        
+    }
+    }
+]
